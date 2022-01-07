@@ -6,6 +6,8 @@ public class Test2 {
 		
 		// This s second class
 
+		System.out.println();
+		
 	}
 
 }
